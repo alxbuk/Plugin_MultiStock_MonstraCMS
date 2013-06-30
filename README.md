@@ -1,18 +1,19 @@
-Плагин MultiStock для Monstra CMS 2.2.1
-Работает из коробки.
-by AlxBuk
+##РџР»Р°РіРёРЅ MultiStock РґР»СЏ Monstra CMS 2.2.1
+Р Р°Р±РѕС‚Р°РµС‚ РёР· РєРѕСЂРѕР±РєРё.
 
 
-Установка:
-Скопируй папку stock в папку Plugins
+###РЈСЃС‚Р°РЅРѕРІРєР°:
+РЎРєРѕРїРёСЂСѓР№ РїР°РїРєСѓ stock РІ РїР°РїРєСѓ Plugins
 
-Использование:
-Все шорткоды появятся в админке
+###РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ:
+Р’СЃРµ С€РѕСЂС‚РєРѕРґС‹ РїРѕСЏРІСЏС‚СЃСЏ РІ Р°РґРјРёРЅРєРµ
 
-Модификация плагина:
-stock/stock/style.css
-stock/stock/jquery.colorbox.js
-stock/stock/jquery.colorbox.config.js
+###РњРѕРґРёС„РёРєР°С†РёСЏ РїР»Р°РіРёРЅР°:
+`stock/stock/style.css`
 
-Ориганальный скрипт
+`stock/stock/jquery.colorbox.js`
+
+`stock/stock/jquery.colorbox.config.js`
+
+###РћСЂРёРіР°РЅР°Р»СЊРЅС‹Р№ СЃРєСЂРёРїС‚
 http://www.jacklmoore.com/colorbox/
